@@ -4,7 +4,6 @@ I'm Chukwuemeka Olorondu, a Backend Engineer based in Nigeria 🇳🇬.
 
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on building open-source Node.js libraries
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Node.js, Typescript, and building backend systems (monolithic, event-driven distributed systems, hybrid systems)
 - 📫 How to reach me: [my email](oloronduchukwuemeka@gmail.com)
 - 😄 Pronouns: He/Him
