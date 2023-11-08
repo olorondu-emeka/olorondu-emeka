@@ -21,6 +21,10 @@ I'm Chukwuemeka Olorondu, a Backend Engineer based in Nigeria 🇳🇬.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Adapter Design Pattern: A Guide to Manage Multiple Third-Party Integrations](https://oloronduemeka.com/adapter-design-pattern-a-guide-to-manage-multiple-third-party-integrations)
+- [How to setup an automated testing pipeline with Codecov and GitHub Actions.](https://oloronduemeka.com/how-to-setup-an-automated-testing-pipeline-with-codecov-and-github-actions)
+- [How to create a flexible backend software architecture.](https://oloronduemeka.com/how-to-create-a-flexible-backend-software-architecture)
+- [Event-driven Architecture.](https://oloronduemeka.com/event-driven-architecture)
 <!-- BLOG-POST-LIST:END -->
 
 
